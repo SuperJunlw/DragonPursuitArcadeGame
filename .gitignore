@@ -1,0 +1,14 @@
+.vs/
+PursuitGame1.sln
+PursuitGame1.vcxproj
+PursuitGame1.vcxproj.filters
+PursuitGame1.vcxproj.user
+icon.rc
+obj/
+bin/FreeImage.dll*           
+bin/PursuitGame1_debug.lib  
+bin/fmod.dll*
+bin/PursuitGame1_debug.exe*  
+bin/PursuitGame1_debug.pdb  
+bin/fmodL.dll*
+bin/PursuitGame1_debug.exp
